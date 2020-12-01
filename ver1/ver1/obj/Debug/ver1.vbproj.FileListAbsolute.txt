@@ -1,0 +1,30 @@
+C:\Users\S\AppData\Local\Temporary Projects\ver1\bin\Debug\ver1.exe
+C:\Users\S\AppData\Local\Temporary Projects\ver1\bin\Debug\ver1.pdb
+C:\Users\S\AppData\Local\Temporary Projects\ver1\bin\Debug\ver1.xml
+C:\Users\S\AppData\Local\Temporary Projects\ver1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\S\AppData\Local\Temporary Projects\ver1\obj\Debug\ver1.Form1.resources
+C:\Users\S\AppData\Local\Temporary Projects\ver1\obj\Debug\ver1.Resources.resources
+C:\Users\S\AppData\Local\Temporary Projects\ver1\obj\Debug\ver1.vbproj.GenerateResource.Cache
+C:\Users\S\AppData\Local\Temporary Projects\ver1\obj\Debug\ver1.exe
+C:\Users\S\AppData\Local\Temporary Projects\ver1\obj\Debug\ver1.xml
+C:\Users\S\AppData\Local\Temporary Projects\ver1\obj\Debug\ver1.pdb
+C:\Users\S\AppData\Local\Temporary Projects\ver1\bin\Debug\Interop.WMPLib.dll
+C:\Users\S\AppData\Local\Temporary Projects\ver1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\S\AppData\Local\Temporary Projects\ver1\obj\Debug\Interop.WMPLib.dll
+C:\Users\S\AppData\Local\Temporary Projects\ver1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\S\AppData\Local\Temporary Projects\ver1\obj\Debug\ver1.vbproj.ResolveComReference.cache
+C:\Q_pro\ver1\ver1\obj\Debug\Interop.WMPLib.dll
+C:\Q_pro\ver1\ver1\obj\Debug\AxInterop.WMPLib.dll
+C:\Q_pro\ver1\ver1\obj\Debug\ver1.vbproj.ResolveComReference.cache
+C:\Q_pro\ver1\ver1\obj\Debug\ver1.exe
+C:\Q_pro\ver1\ver1\obj\Debug\ver1.xml
+C:\Q_pro\ver1\ver1\obj\Debug\ver1.pdb
+C:\Q_pro\ver1\ver1\bin\Debug\ver1.exe
+C:\Q_pro\ver1\ver1\bin\Debug\ver1.pdb
+C:\Q_pro\ver1\ver1\bin\Debug\ver1.xml
+C:\Q_pro\ver1\ver1\bin\Debug\Interop.WMPLib.dll
+C:\Q_pro\ver1\ver1\bin\Debug\AxInterop.WMPLib.dll
+C:\Q_pro\ver1\ver1\obj\Debug\ResolveAssemblyReference.cache
+C:\Q_pro\ver1\ver1\obj\Debug\ver1.Form1.resources
+C:\Q_pro\ver1\ver1\obj\Debug\ver1.Resources.resources
+C:\Q_pro\ver1\ver1\obj\Debug\ver1.vbproj.GenerateResource.Cache
